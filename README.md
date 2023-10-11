@@ -19,7 +19,7 @@ I'm in the process of building my proficiency with front-end technologies, inclu
 - Pixel-perfect design (Figma, Photoshop)
 - JavaScript and DOM manipulation
 - React, Redux Toolkit, Material UI
-- RESTfull Services
+- RESTful Services
 - Version control with Git
 
 ## Get in Touch
