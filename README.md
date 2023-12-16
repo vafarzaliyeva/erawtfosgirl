@@ -18,7 +18,7 @@ I'm in the process of building my proficiency with front-end technologies, inclu
 - Responsive web design and CSS frameworks (Bootstrap, Tailwind CSS)
 - Pixel-perfect design (Figma, Photoshop)
 - JavaScript and DOM manipulation
-- React, Redux Toolkit, Material UI
+- React, Redux Toolkit, Context API, Material UI, Ant Design
 - RESTful Services
 - Version control with Git
 
