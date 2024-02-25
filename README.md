@@ -26,8 +26,8 @@ I'm in the process of building my proficiency with front-end technologies, inclu
 
 I'm always eager to connect with others who share my passion for frontend development and are willing to provide guidance. Please don't hesitate to reach out:
 
-- 📧 Email: [vjuggler11@gmail.com]
+- 📧 Email: [vefaferzeliyeva11@gmail.com]
 - 🔗 LinkedIn: [www.linkedin.com/in/vefaferzeliyeva]
-- 💬 GitHub: [https://github.com/vjuggler]
+- 💬 GitHub: [https://github.com/erawtfosgirl]
 
 I'm looking forward to meeting fellow learners, experienced developers, and anyone interested in joining me on this exciting journey.
