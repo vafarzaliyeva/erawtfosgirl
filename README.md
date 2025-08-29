@@ -1,33 +1,32 @@
-# Hello, I'am Vefa 👋
+👋 Hi, I'm Vefa
 
-I'm an aspiring Frontend Developer with a strong enthusiasm for creating beautiful and functional web experiences. 
-I'm just starting my journey into the world of web development, and I'm excited to learn, grow, and contribute to the ever-evolving field.
+💻 Junior Frontend Developer @ Azerconnect Group
+🌟 Passionate about building beautiful, functional, and user-friendly web experiences. Always eager to learn, grow, and share knowledge with the developer community.
 
-## About Me
+👩‍💻 About Me
 
-- 🎓 Recent graduate with a degree in BEng (Bachelor of Engineering) from Baku Engineering University
-- 💻 Eager to learn and explore front-end technologies, from HTML and CSS to JavaScript and beyond
-- 🌱 Currently building my skills and portfolio by working on personal projects
-- 💬 Open to collaborating with fellow developers and learning from the community
+🎓 BEng (Bachelor of Engineering), Baku Engineering University
+📈 Currently working on real-world projects in a professional environment while strengthening my frontend development skills
+🤝 Open to collaboration, mentorship, and exchanging ideas with fellow developers
 
-## Tech Stack
+⚒️ Tech Stack
 
-I'm in the process of building my proficiency with front-end technologies, including:
+🔹 Frontend: HTML5, CSS3, Sass, Bootstrap, Tailwind CSS
+🔹 JavaScript Ecosystem: JavaScript (ES6+), TypeScript
+🔹 React Ecosystem: React, React Router, Next.js, Redux Toolkit (RTK), RTK Query, Context API
+🔹 Form Management: React Hook Form, Formik, Yup
+🔹 UI Libraries & Styling: Material UI, Ant Design, Styled Components
+🔹 Design Tools: Pixel-perfect design (Figma, Photoshop)
+🔹 Testing: Jest, React Testing Library
+🔹 Version Control & Collaboration: Git, GitLab
+🔹 Web Services: RESTful APIs
 
-- HTML5 and CSS3(Sass/SCSS)
-- Responsive web design and CSS frameworks (Bootstrap, Tailwind CSS)
-- Pixel-perfect design (Figma, Photoshop)
-- JavaScript,TypeScript and DOM manipulation
-- React, Redux Toolkit, RTK Query, Context API, Material UI, Ant Design
-- RESTful Services
-- Version control with Git
+📬 Get in Touch
 
-## Get in Touch
+📧 Email: vefaferzeliyeva11@gmail.com
 
-I'm always eager to connect with others who share my passion for frontend development and are willing to provide guidance. Please don't hesitate to reach out:
+🔗 LinkedIn: linkedin.com/in/vefaferzeliyeva
 
-- 📧 Email: [vefaferzeliyeva11@gmail.com]
-- 🔗 LinkedIn: [www.linkedin.com/in/vefaferzeliyeva]
-- 💬 GitHub: [https://github.com/erawtfosgirl]
+💻 GitHub: github.com/erawtfosgirl
 
-I'm looking forward to meeting fellow learners, experienced developers, and anyone interested in joining me on this exciting journey.
+✨ Always excited to connect with developers, share knowledge, and collaborate on meaningful projects.
